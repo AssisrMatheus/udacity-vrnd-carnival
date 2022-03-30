@@ -1,4 +1,10 @@
 # Udacity Carnival
+
+<p align="center">
+	<img src="./Screenshot_20180912-130449.png" alt="Wheel of fortine" title="Wheel of fortine" />
+	<img src="./Screenshot_20180912-130457.png" alt="Scoreboard" title="Scoreboard" />
+</p>
+
 Starter project for(now out of order) the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
 
 - Course: Introduction to Virtual Reality
